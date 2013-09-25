@@ -1,4 +1,10 @@
-#Create an algorithm to determine if a string has all unique characters. 
+#Create an algorithm to determine if a string has all unique characters without the .uniq method. 
+
+#With .uniq =
+
+# def word_uniq? str
+#  str == str.split("").uniq.join
+# end
 
 class Duplicate
 
